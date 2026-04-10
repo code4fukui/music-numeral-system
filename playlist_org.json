@@ -1,0 +1,2591 @@
+{
+  "entity_type": "playlist_schema",
+  "id": "c88719c8-6172-4979-a790-12d1103f6633",
+  "name": "命数法",
+  "playlist_clips": [
+    {
+      "clip": {
+        "status": "complete",
+        "title": "なゆた・無量数",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "32a8f8f2-f540-44b4-bac7-da1e57b530af",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/32a8f8f2-f540-44b4-bac7-da1e57b530af.mp3",
+        "image_url": "https://cdn2.suno.ai/image_32a8f8f2-f540-44b4-bac7-da1e57b530af.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_32a8f8f2-f540-44b4-bac7-da1e57b530af.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "kids counting song, electronic pop, playful female vocal, catchy melody, educational, cute but slightly surreal",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 88,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T22:00:47.622Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "electronic pop, novelty pop, children’s music",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 0
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "なゆた・無量数",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "2a131e8b-ecda-4e89-b98b-70e6b9f2cd5e",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/2a131e8b-ecda-4e89-b98b-70e6b9f2cd5e.mp3",
+        "image_url": "https://cdn2.suno.ai/image_2a131e8b-ecda-4e89-b98b-70e6b9f2cd5e.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_2a131e8b-ecda-4e89-b98b-70e6b9f2cd5e.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "kids counting song, electronic pop, playful female vocal, catchy melody, educational, cute but slightly surreal",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 70.88,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T22:00:47.622Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "electronic pop, novelty pop, children’s music",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 1
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量体積数",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "75a8fd4f-288c-4b05-873f-bc9dd2bc8c6c",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/75a8fd4f-288c-4b05-873f-bc9dd2bc8c6c.mp3",
+        "image_url": "https://cdn2.suno.ai/image_75a8fd4f-288c-4b05-873f-bc9dd2bc8c6c.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_75a8fd4f-288c-4b05-873f-bc9dd2bc8c6c.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "IDM, glitch electronic, minimal vocal phrases, abstract rhythm, mathematical feeling",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 48,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:59:17.657Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 2
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量体積数",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "4f73c02a-4b15-4098-b215-b1d7bb87465a",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/4f73c02a-4b15-4098-b215-b1d7bb87465a.mp3",
+        "image_url": "https://cdn2.suno.ai/image_4f73c02a-4b15-4098-b215-b1d7bb87465a.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_4f73c02a-4b15-4098-b215-b1d7bb87465a.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "IDM, glitch electronic, minimal vocal phrases, abstract rhythm, mathematical feeling",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 69.24,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:59:17.657Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 3
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量大数ナユタ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "593a2ba8-fa84-449a-9497-39984e8cea5a",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/593a2ba8-fa84-449a-9497-39984e8cea5a.mp3",
+        "image_url": "https://cdn2.suno.ai/image_593a2ba8-fa84-449a-9497-39984e8cea5a.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_593a2ba8-fa84-449a-9497-39984e8cea5a.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "electro pop",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 61.04,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:58:51.220Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 4
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量大数ナユタ",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "a5dacfee-b791-4776-ab62-58db5bb6e8a9",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/a5dacfee-b791-4776-ab62-58db5bb6e8a9.mp3",
+        "image_url": "https://cdn2.suno.ai/image_a5dacfee-b791-4776-ab62-58db5bb6e8a9.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_a5dacfee-b791-4776-ab62-58db5bb6e8a9.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "electro pop",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 59.92,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:58:51.220Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 5
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量体数の謎",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "121993f0-f5c6-4ac4-9612-c557108d8e8d",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/121993f0-f5c6-4ac4-9612-c557108d8e8d.mp3",
+        "image_url": "https://cdn2.suno.ai/image_121993f0-f5c6-4ac4-9612-c557108d8e8d.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_121993f0-f5c6-4ac4-9612-c557108d8e8d.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "slow techno",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 126.4,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:56:57.439Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 6
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量体数の謎",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "f6a94119-c866-48ad-a1ec-2221f3df7a3f",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/f6a94119-c866-48ad-a1ec-2221f3df7a3f.mp3",
+        "image_url": "https://cdn2.suno.ai/image_f6a94119-c866-48ad-a1ec-2221f3df7a3f.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_f6a94119-c866-48ad-a1ec-2221f3df7a3f.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "slow techno",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 151.24,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:56:57.439Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 7
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量大数",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "5cf2b60d-da37-4ec6-8d40-31cbc54f7baf",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/5cf2b60d-da37-4ec6-8d40-31cbc54f7baf.mp3",
+        "image_url": "https://cdn2.suno.ai/image_5cf2b60d-da37-4ec6-8d40-31cbc54f7baf.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_5cf2b60d-da37-4ec6-8d40-31cbc54f7baf.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "fork",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 53.44,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:56:23.359Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 8
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量大数",
+        "play_count": 0,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "d579aca4-4c31-4ede-b8ed-a66a8e9652fd",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/d579aca4-4c31-4ede-b8ed-a66a8e9652fd.mp3",
+        "image_url": "https://cdn2.suno.ai/image_d579aca4-4c31-4ede-b8ed-a66a8e9652fd.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_d579aca4-4c31-4ede-b8ed-a66a8e9652fd.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "fork",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 69.88,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:56:23.359Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 9
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量指数",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "96ed0142-a99e-4a21-a693-7e72625dbde8",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/96ed0142-a99e-4a21-a693-7e72625dbde8.mp3",
+        "image_url": "https://cdn2.suno.ai/image_96ed0142-a99e-4a21-a693-7e72625dbde8.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_96ed0142-a99e-4a21-a693-7e72625dbde8.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "piano ballad",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 97.84,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:56:16.463Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 10
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量指数",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "35c57a16-97da-41c1-acb0-9bfb666db2d3",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/35c57a16-97da-41c1-acb0-9bfb666db2d3.mp3",
+        "image_url": "https://cdn2.suno.ai/image_35c57a16-97da-41c1-acb0-9bfb666db2d3.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_35c57a16-97da-41c1-acb0-9bfb666db2d3.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "piano ballad",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 112.36,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:56:16.463Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 11
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量体積数",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "d32cdd68-37fd-4ce4-a02b-b2d6e994017a",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/d32cdd68-37fd-4ce4-a02b-b2d6e994017a.mp3",
+        "image_url": "https://cdn2.suno.ai/image_d32cdd68-37fd-4ce4-a02b-b2d6e994017a.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_d32cdd68-37fd-4ce4-a02b-b2d6e994017a.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "j-pop",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 45.68,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:56:10.062Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 12
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量体積数",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "ad593e42-dbb5-468a-89a1-c5051a7c70d8",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/ad593e42-dbb5-468a-89a1-c5051a7c70d8.mp3",
+        "image_url": "https://cdn2.suno.ai/image_ad593e42-dbb5-468a-89a1-c5051a7c70d8.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_ad593e42-dbb5-468a-89a1-c5051a7c70d8.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "j-pop",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 46.8,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:56:10.062Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 13
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量体積数",
+        "play_count": 2,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "ed7dbb04-cb05-4718-a3df-6cc48f2c49c9",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/ed7dbb04-cb05-4718-a3df-6cc48f2c49c9.mp3",
+        "image_url": "https://cdn2.suno.ai/image_ed7dbb04-cb05-4718-a3df-6cc48f2c49c9.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_ed7dbb04-cb05-4718-a3df-6cc48f2c49c9.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "rap",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 34.76,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:53:32.275Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 14
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量体積数",
+        "play_count": 2,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "6c9c699b-3676-4f53-b0fb-d8ec332e1eee",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/6c9c699b-3676-4f53-b0fb-d8ec332e1eee.mp3",
+        "image_url": "https://cdn2.suno.ai/image_6c9c699b-3676-4f53-b0fb-d8ec332e1eee.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_6c9c699b-3676-4f53-b0fb-d8ec332e1eee.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "rap",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 45.92,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:53:32.275Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 15
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量体積数",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "d8eedb0b-a4e4-4904-ac14-6ad21dce564f",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/d8eedb0b-a4e4-4904-ac14-6ad21dce564f.mp3",
+        "image_url": "https://cdn2.suno.ai/image_d8eedb0b-a4e4-4904-ac14-6ad21dce564f.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_d8eedb0b-a4e4-4904-ac14-6ad21dce564f.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "techno, rap",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 40.8,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:50:51.178Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 16
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量体積数",
+        "play_count": 1,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "6140d2d4-2c4d-4f59-b78b-32358bcfb77a",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/6140d2d4-2c4d-4f59-b78b-32358bcfb77a.mp3",
+        "image_url": "https://cdn2.suno.ai/image_6140d2d4-2c4d-4f59-b78b-32358bcfb77a.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_6140d2d4-2c4d-4f59-b78b-32358bcfb77a.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "techno, rap",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 44.84,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:50:51.178Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 17
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量大数の暗算",
+        "play_count": 2,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "5266f677-d6e7-450f-b020-80de97d9a14f",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/5266f677-d6e7-450f-b020-80de97d9a14f.mp3",
+        "image_url": "https://cdn2.suno.ai/image_5266f677-d6e7-450f-b020-80de97d9a14f.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_5266f677-d6e7-450f-b020-80de97d9a14f.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 76,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:50:02.433Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 1,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 18
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "無量大数の暗算",
+        "play_count": 2,
+        "upvote_count": 0,
+        "allow_comments": true,
+        "is_verified": false,
+        "id": "4c2c6af1-5bb2-42e0-9ac9-1e493c93055c",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "https://cdn1.suno.ai/4c2c6af1-5bb2-42e0-9ac9-1e493c93055c.mp3",
+        "image_url": "https://cdn2.suno.ai/image_4c2c6af1-5bb2-42e0-9ac9-1e493c93055c.jpeg",
+        "image_large_url": "https://cdn2.suno.ai/image_large_4c2c6af1-5bb2-42e0-9ac9-1e493c93055c.jpeg",
+        "major_model_version": "v5.5",
+        "model_name": "chirp-fenix",
+        "metadata": {
+          "tags": "",
+          "prompt": "いち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\nいち,じゅう,ひゃく,せん,まん\\nおく, ちょう, けい, がい, じょ\\nじょう, こう, かん, せい, さい\\nごく, ごうがしゃ, あそうぎ\\nなゆた, ふかしぎ, むりょうたいすう\\n\\n",
+          "type": "gen",
+          "duration": 69.68,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5.5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "is_mumble": false
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-04-10T21:50:02.433Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0,
+        "action_config": {
+          "actions": [
+            {
+              "action_type": "add_to_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "like_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "share_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "dislike_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "report_song",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remove_from_playlist",
+              "disabled": false,
+              "visible": true
+            },
+            {
+              "action_type": "remix_extend",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_cover",
+              "disabled": true,
+              "visible": false
+            },
+            {
+              "action_type": "remix_reuse_style",
+              "disabled": true,
+              "visible": false
+            }
+          ]
+        }
+      },
+      "relative_index": 19
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_32a8f8f2-f540-44b4-bac7-da1e57b530af.jpeg",
+  "num_total_results": 20,
+  "current_page": 1,
+  "is_owned": false,
+  "is_trashed": false,
+  "is_public": false,
+  "is_hidden": false,
+  "user_display_name": "Taisuke Fukuno",
+  "user_handle": "taisukefukuno858",
+  "user_avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+  "user_is_verified": false,
+  "description": "",
+  "upvote_count": 0,
+  "dislike_count": 0,
+  "flag_count": 0,
+  "skip_count": 0,
+  "play_count": 0,
+  "song_count": 0,
+  "total_duration": 1412.72,
+  "is_discover_playlist": false,
+  "clipIds": [
+    "32a8f8f2-f540-44b4-bac7-da1e57b530af",
+    "2a131e8b-ecda-4e89-b98b-70e6b9f2cd5e",
+    "75a8fd4f-288c-4b05-873f-bc9dd2bc8c6c",
+    "4f73c02a-4b15-4098-b215-b1d7bb87465a",
+    "593a2ba8-fa84-449a-9497-39984e8cea5a",
+    "a5dacfee-b791-4776-ab62-58db5bb6e8a9",
+    "121993f0-f5c6-4ac4-9612-c557108d8e8d",
+    "f6a94119-c866-48ad-a1ec-2221f3df7a3f",
+    "5cf2b60d-da37-4ec6-8d40-31cbc54f7baf",
+    "d579aca4-4c31-4ede-b8ed-a66a8e9652fd",
+    "96ed0142-a99e-4a21-a693-7e72625dbde8",
+    "35c57a16-97da-41c1-acb0-9bfb666db2d3",
+    "d32cdd68-37fd-4ce4-a02b-b2d6e994017a",
+    "ad593e42-dbb5-468a-89a1-c5051a7c70d8",
+    "ed7dbb04-cb05-4718-a3df-6cc48f2c49c9",
+    "6c9c699b-3676-4f53-b0fb-d8ec332e1eee",
+    "d8eedb0b-a4e4-4904-ac14-6ad21dce564f",
+    "6140d2d4-2c4d-4f59-b78b-32358bcfb77a",
+    "5266f677-d6e7-450f-b020-80de97d9a14f",
+    "4c2c6af1-5bb2-42e0-9ac9-1e493c93055c"
+  ]
+}
