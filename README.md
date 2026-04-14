@@ -1,5 +1,9 @@
 # music-numeral-system
 
+漢数字の大数単位表と数え歌
+
+- [numeral-system.ja.csv](numeral-system.ja.csv)
+
 ## lyrics
 
 ```
